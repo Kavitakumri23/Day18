@@ -2,6 +2,7 @@
 Today I learned and implemented the Cyclic Sort Algorithm in Java.
 
 🔍 What is Cyclic Sort?
+
 Cyclic Sort is a very efficient in-place sorting algorithm used when:
 The array contains numbers in the range 1 to N (or 0 to N).
 Each number is unique.
